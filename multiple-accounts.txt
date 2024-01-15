@@ -41,7 +41,7 @@ $ nano ~/.gitconfig
 
 $ nano ~/work/.gitconfig
 [user]
-    name = Coder Train
+    name = work_name
     email = work_email_id
 
 step 5: 
@@ -63,5 +63,5 @@ step 7:
 Always clone repo by adding hostname in remote url
 e.g. git@github.com to git@github.com-personal
 
-git clone git@github.com-personal:sagarjunnarkar/sagarjunnarkar.github.io.git
-git@github.com-work:coder-train/multiple-git-accounts-demo.git
+git clone git@github.com-personal:alphabetagamma/alphabetagamma.github.io.git
+git@github.com-work:alphabetagamma/multiple-git-accounts-demo.git
